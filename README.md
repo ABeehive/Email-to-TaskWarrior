@@ -16,5 +16,5 @@ The selected message in Mail becomes a Task in Taskwarrior with as it's annotati
 That's it. Invoke the applescript by using Inbox Rules or a Mail Act-On rule. 
 
 
-# Known issues:
-- [x] If the subject includes a ( or ) then it fails. Working on a solution. | FIXED. by using Quoted Form
+## ToDo
+- [ ] Automatically remove RE: in subject
