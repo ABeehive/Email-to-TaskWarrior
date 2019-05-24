@@ -14,3 +14,7 @@ The selected message in Mail becomes a Task in Taskwarrior with as it's annotati
 - Install taskopen
 
 That's it. Invoke the applescript by using Inbox Rules or a Mail Act-On rule. 
+
+
+# Known issues:
+- If the subject includes a ( or ) then it fails. Working on a solution.
