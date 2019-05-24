@@ -17,4 +17,4 @@ That's it. Invoke the applescript by using Inbox Rules or a Mail Act-On rule.
 
 
 # Known issues:
-- If the subject includes a ( or ) then it fails. Working on a solution.
+- [x] If the subject includes a ( or ) then it fails. Working on a solution. | FIXED. by using Quoted Form
