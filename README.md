@@ -1,7 +1,7 @@
 # Email-to-TaskWarrior
 Make an email in Mail.app a task with TaskWarrior and Taskopen using Applescript.
 
-The selected message in Mail becomes a Task in Taskwarrior with as it's annotation the link to the specific message. The script asks the user when you want to set the due date for the message. With taskopen you can then open the email message directly by invoking the taskopen command. 
+The selected message in Mail becomes a Task in Taskwarrior with as it's annotation the link to the specific message. The script asks the user when you want to set the due date for the message, also what you want to name the task, default is the Subject line. With taskopen you can then open the email message directly by invoking the taskopen command. 
 
 # Dependencies
 - You need [TaskWarrior](https://taskwarrior.org/)
