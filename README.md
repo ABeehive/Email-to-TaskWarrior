@@ -17,4 +17,4 @@ That's it. Invoke the applescript by using Inbox Rules or a Mail Act-On rule.
 
 
 ## ToDo
-- [ ] Automatically remove RE: in subject
+- [x] Automatically remove RE: in subject | DONE!
